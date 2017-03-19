@@ -1,6 +1,6 @@
 ## **Informações**
 <sub>
-Este repositório foi criado inicialmente para estudo relacionados a materia <strong>IDS001</strong> ministrada pelo professor <strong>Alexandre Oliveira Garcia</strong> da <strong>Fatec Rubens Lara</strong>, porem resolvi disponibilizá-lo, caso queira localizar alguma aula ou informação em específico siga as instruções listadas logo abaixo ou entre em contato via ayrton.tunes@outlook.com
+Este repositório foi criado inicialmente para estudo relacionados a matéria <strong>IDS001</strong> ministrada pelo professor <strong>Alexandre Oliveira Garcia</strong> da <strong>Fatec Rubens Lara</strong>, porem resolvi disponibilizá-lo, caso queira localizar alguma aula ou informação em específico siga as instruções listadas logo abaixo ou entre em contato via ayrton.tunes@outlook.com
 </sub>
 
 ##
