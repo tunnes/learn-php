@@ -1,0 +1,3 @@
+RewriteEngine On 
+RewriteRule ^([A-Za-z]+)/([A-Za-z]+)/?$ Bimestre-2/10-10-aula/index.php?class=$1&met=$2
+RewriteRule ^([A-Za-z]+)/([A-Za-z]+)/([0-9]+)/?$ Bimestre-2/10-10-aula/index.php?class=$1&met=$2&args=$3 [L] 

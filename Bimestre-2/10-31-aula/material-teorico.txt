@@ -1,0 +1,12 @@
+MODEL-VIEW-CONTROLLER (MVC)
+
+Padrão de projeto de software que visa separar uma interface com o usuario dos dados.
+O padrão é dividido em 3 camadas:
+
+    MODEL: 
+    Camada que trata os dados. representa o estado da aplicacao, 
+    aqui há rotinas de interação com o banco de dados.
+    
+    VIEW:
+    Camada de apresentação aqui estao as paginas HTML esta camada 
+    pode observar pode 
