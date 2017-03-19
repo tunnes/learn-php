@@ -24,3 +24,4 @@ Este repositório foi criado inicialmente para uso pessoal, porem resolvi dispon
 **Material Extra**
 > -  Implementação da fórmula matemática de Haversine.
 > -  Operando o formato BLOB com PHP e MySQL.
+
